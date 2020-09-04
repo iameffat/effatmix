@@ -11,7 +11,7 @@ https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 #EXTINF:-1,DBC News
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
 #EXTINF:-1,Ekattor TV
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1,Independent TV
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 #EXTINF:-1,Somoy News
@@ -51,7 +51,7 @@ https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1,NTV
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1,Nagorik TV
-http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/59.m3u8
 #EXTINF:-1,RTV
 https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8
 #EXTINF:-1,SA TV
@@ -80,7 +80,7 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
 
 #EXTINF:-1,SONY AATH
-http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
 
 #EXTINF:-1,Star Plus
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
@@ -99,10 +99,8 @@ https://edge01.iptv.digijadoo.net/live/ary_asia/chunks.m3u8
 #EXTINF:-1,Ary Zindigi
 https://edge01.iptv.digijadoo.net/live/ary_zindigi/chunks.m3u8
 
-#EXTINF:-1,And TV HD
-http://stream.amrbd.com:8082/AndTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony TV HD
-http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/38.m3u8
 
 #EXTINF:-1,Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
@@ -133,16 +131,12 @@ https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/zoom/playlist.m3u8
 #EXTINF:-1,Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:-1,B4U Music
-http://stream.amrbd.com:8082/B4umuisc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
 #EXTINF:-1,mastiii
 https://edge01.iptv.digijadoo.net/live/mastii/chunks.m3u8
 #EXTINF:-1,Ary Musik
 https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
-#EXTINF:-1,VH1
-http://stream.amrbd.com:8082/MTV-India/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/chunks.m3u8
@@ -176,10 +170,6 @@ https://edge01.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 #EXTINF:-1,News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
-#EXTINF:-1,VOA News
-http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Dubai One
-http://stream.amrbd.com:8082/Adsports3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,R Plus Gold
 https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
 #EXTINF:-1,DD News
@@ -233,23 +223,10 @@ http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1,DD Sports
 https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
 
-#EXTINF:-1,Sony Six
-http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1
-http://stream.amrbd.com:8082/Ten1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 2
-http://103.205.133.14/hls/ten2.m3u8
-#EXTINF:-1,Sony Ten 3
-http://103.205.133.14/hls/ten3.m3u8
-
 #EXTINF:-1,Sky Net Sports 1
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF:-1,Star Sports Select 1 HD
 http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://stream.amrbd.com:8082/kn3a/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
-http://stream.amrbd.com:8082/kn5a/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Madani Bangla
 http://45.249.187.238:8081/hls/new9.m3u8
@@ -263,23 +240,10 @@ https://edge01.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:-1,Astro Awani (Malaysia)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-#EXTINF:-1,Enter 10 Movies
-http://stream.amrbd.com:8082/Entert-ten/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Movies Now HD
-http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Sony Sab HD
-http://103.214.202.218:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1,Discovery HD
+http://iptvthunder.thunderbd.com/live/roarzone/roarzone/66.m3u8
 #EXTINF:-1,And Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1,And Flix HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1,Zee Cafe HD
-http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1,MNX
-http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1,And Picture HD
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 
 #EXTINF:-1,HBO
 http://45.249.187.238:8081/hls/new13.m3u8
